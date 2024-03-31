@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web developer from nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binayak&label=Profile%20views&color=0e75b6&style=flat" alt="binayak" /> </p>
+<img align="right" src="https://th.bing.com/th/id/OIP.6B63OFgzJ7tz8M9vY3EyoAHaEL?rs=1&pid=ImgDetMain">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
